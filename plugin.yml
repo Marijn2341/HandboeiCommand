@@ -1,0 +1,8 @@
+name: HandboeiSDB
+version: 1.0
+main: be.marijn2341.handboeisdb.Main
+description: Plugin om je via een command te uncuffen woooh
+
+commands:
+  handboei:
+    aliases: [handcuff]
